@@ -1,0 +1,23 @@
+* {
+  font-family: "Open Sans" !important;
+}
+
+.fa {
+  font-family: FontAwesome !important;
+}
+
+.no-bottom {
+  margin-bottom: 0px !important;
+}
+
+.header {
+  background-color: #428bca;
+  color: white;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-bottom: 20px;
+}
+
+.blue {
+  color: #428bca;
+}
