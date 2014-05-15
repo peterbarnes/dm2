@@ -13,11 +13,28 @@
 .header {
   background-color: #428bca;
   color: white;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 70px;
+  padding-bottom: 70px;
   margin-bottom: 20px;
 }
 
 .blue {
   color: #428bca;
+}
+
+.head {
+  line-height: 90px;
+}
+
+.title-head {
+  font-size: 65px;
+  text-shadow: 4px 2px #000000;
+}
+
+ul {
+  list-style: none;
+}
+
+nav {
+  background-color: white !important;
 }
