@@ -1,5 +1,5 @@
 * {
-  font-family: "Open Sans" !important;
+  font-family: "Open Sans Condensed" !important;
 }
 
 .fa {
@@ -27,7 +27,7 @@
 }
 
 .title-head {
-  font-size: 65px;
+  font-size: 75px;
   text-shadow: 4px 2px #000000;
 }
 
@@ -37,4 +37,17 @@ ul {
 
 nav {
   background-color: white !important;
+}
+
+.navlinks {
+  position: fixed;
+  margin-top: 20px;
+}
+
+.red {
+  background-color: #E32727;
+}
+
+.green {
+  background-color: #55ED58;
 }

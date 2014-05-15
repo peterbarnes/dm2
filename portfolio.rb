@@ -8,3 +8,7 @@ Bundler.require(:default)
 get '/?' do 
   erb :index
 end
+
+get '/videos' do 
+  erb :videos
+end
