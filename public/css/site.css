@@ -51,3 +51,24 @@ nav {
 .green {
   background-color: #55ED58;
 }
+
+.darkgray {
+  background-color: #8C8C6C;
+}
+
+.dicpurple {
+  background-color: #945799;
+}
+
+.tokengold {
+  background-color: #E8E84A;
+}
+
+.fa-plus {
+  cursor: pointer;
+}
+
+.fa-plus:hover {
+  color: #1F64A1;
+}
+
